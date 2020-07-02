@@ -7,8 +7,8 @@ const content = `
       display: block;
       font-family: sans-serif;
       font-size: 16px;
-      line-height: 1.5;
-      padding: 32px;
+      line-height: 1.25;
+      padding: 24px;
       width: 100%;
     }
 
